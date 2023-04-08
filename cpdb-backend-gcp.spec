@@ -1,8 +1,9 @@
+# NOTE: no sense to build for Th, online service has been shutdown in 2020
 Summary:	Google Cloud Print Common Print Dialog Backend
 Summary(pl.UTF-8):	Backend Google Cloud Print dla CPDB (wspólnych okien dialogowych drukowania)
 Name:		cpdb-backend-gcp
 Version:	1.1.0
-Release:	1
+Release:	0.1
 License:	MIT
 Group:		Libraries
 #Source0Download: https://github.com/OpenPrinting/cpdb-backend-gcp/releases
